@@ -24,7 +24,7 @@ export function PersonaSelectionCard({ personas, selectedPersona, onSelectPerson
             <User className="w-5 h-5" />
             <CardTitle>Select Persona</CardTitle>
           </div>
-          <CardDescription>Choose who you'll be speaking with</CardDescription>
+          <CardDescription>Choose who you&apos;ll be speaking with</CardDescription>
         </CardHeader>
         <CardContent className="space-y-3 max-h-96 overflow-y-auto">
           {personas.map((persona) => (

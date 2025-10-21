@@ -29,7 +29,7 @@ export function AssessmentHeader() {
         Session Complete!
       </h1>
       <p className="text-muted-foreground">
-        Here's how you performed in this conversation
+        Here&apos;s how you performed in this conversation
       </p>
     </motion.div>
   );
